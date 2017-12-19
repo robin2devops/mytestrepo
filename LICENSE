@@ -1,0 +1,6 @@
+total 12
+drwxrwxr-x.  3 robin robin   48 Dec 19 09:58 .
+drwx------. 28 robin robin 4096 Dec 19 09:58 ..
+drwxrwxr-x.  8 robin robin 4096 Dec 19 09:48 .git
+-rw-rw-r--.  1 robin robin    0 Dec 19 09:58 LICENSE
+-rw-rw-r--.  1 robin robin  132 Dec 19 09:58 readme.txt
