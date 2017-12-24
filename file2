@@ -2,3 +2,8 @@ file2
 LICENSE
 readme.txt
 test.txt
+total 16
+-rw-rw-r--. 1 robin robin  34 Dec 24 17:06 file2
+-rw-rw-r--. 1 robin robin 263 Dec 24 17:01 LICENSE
+-rw-rw-r--. 1 robin robin 316 Dec 24 17:05 readme.txt
+-rw-rw-r--. 1 robin robin 791 Dec 24 17:05 test.txt
